@@ -7,12 +7,6 @@ lavalink:
     password: youshallnotpass
     sources:
       youtube: true
-      bandcamp: true
       soundcloud: true
-      twitch: true
-      vimeo: true
       http: true
       local: false
-    buffering:
-      frame-buffer-duration: 5000
-  plugins: []
